@@ -65,6 +65,7 @@ plotly==5.14.1
 poppler-utils==0.1.0
 proto-plus==1.22.2
 protobuf==4.23.0rc2
+psycopg2-binary==2.9.6
 pyasn1==0.5.0
 pyasn1-modules==0.3.0
 pycparser==2.21
